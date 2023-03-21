@@ -64,8 +64,8 @@ fn control_flow(){
 
     //for loop
     let a = [10, 20, 30, 40, 50];
-    for item in a.rev() {
-        println!("the value is: {}", item);
-    }
+    // for item in a.rev() {
+    //     println!("the value is: {}", item);
+    // }
     
 }
